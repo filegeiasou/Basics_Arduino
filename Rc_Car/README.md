@@ -23,7 +23,8 @@ The Arduino code can be found in the RC_motor.ino file.
 3. Press each pushbutton to activate the corresponding motor.
 
 
-![image](https://github.com/filegeiasou/Rc_Car/assets/49124547/95201b0a-bcdc-4113-b4a0-47f59b6ba560)
+![image](https://github.com/filegeiasou/Basics_Arduino/assets/49124547/f4c3a884-e294-4985-94c0-c93361ac9f80)
+
 
 
 
