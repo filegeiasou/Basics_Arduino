@@ -38,6 +38,7 @@ Each project folder contains the necessary source code and additional resources.
 - LCD 16x2
 - 7-segment display
 - RC car chassis with 4 dc motors and wheels
+- 3 leds red,green and yellow
 
 ### Installation
 
