@@ -23,6 +23,9 @@ Welcome to my GitHub repository where I showcase various electronics projects. E
 ### 6. Countdown Display
 - Description: A countdown timer implemented with a 7-segment display. The code allows you to set the countdown duration and displays the remaining time.
 
+### 7. Traffic Light
+- Description: A simple traffic light project with three LEDs. The code simulates the standard traffic light sequence of red, yellow, and green lights.
+
 ## Usage
 Each project folder contains the necessary source code and additional resources. Follow the instructions in each project's README file for setup and usage details.
 
