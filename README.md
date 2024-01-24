@@ -41,4 +41,4 @@ Each project folder contains the necessary source code and additional resources.
 1. Clone this repository to your local machine:
 
    ```bash
-   git@github.com:filegeiasou/Basics_Arduino.git
+   git clone https://github.com/filegeiasou/Basics_Arduino.git
