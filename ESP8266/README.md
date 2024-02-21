@@ -51,4 +51,6 @@ Once the setup is complete and the sketch is uploaded to your Arduino Uno R3, th
 Feel free to reach out if you have any questions or need further assistance!
 
 ![image](https://github.com/filegeiasou/Basics_Arduino/assets/49124547/ac2a6edb-beca-4ce8-8666-62136880dff1)
+![image](https://github.com/filegeiasou/Basics_Arduino/assets/49124547/a3abe02b-b626-4ba6-a9e6-1172d485ffd1)
+
 
