@@ -26,6 +26,11 @@ Welcome to my GitHub repository where I showcase various electronics projects. E
 ### 7. Traffic Light
 - Description: A simple traffic light project with three LEDs. The code simulates the standard traffic light sequence of red, yellow, and green lights.
 
+### ESP8266 Projects
+
+1. **WiFi Temperature Sensor**
+   - Description: Implement a temperature sensor project using the ESP8266 module to connect to a WiFi network. The code reads the temperature data from the sensor and sends it to a designated server for logging or monitoring.
+
 ## Usage
 Each project folder contains the necessary source code and additional resources. Follow the instructions in each project's README file for setup and usage details.
 
@@ -39,6 +44,7 @@ Each project folder contains the necessary source code and additional resources.
 - 7-segment display
 - RC car chassis with 4 dc motors and wheels
 - 3 leds red,green and yellow
+- ESP8266 module (e.g., NodeMCU, ESP-01)
 
 ### Installation
 
