@@ -26,6 +26,12 @@ Welcome to my GitHub repository where I showcase various electronics projects. E
 ### 7. Traffic Light
 - Description: A simple traffic light project with three LEDs. The code simulates the standard traffic light sequence of red, yellow, and green lights.
 
+### 8. Interrupt
+- Description: Descr.
+
+### 9. I2C Protocol
+- Description: Descr.
+
 ### ESP8266 Projects
 
 1. **WiFi Temperature Sensor**
