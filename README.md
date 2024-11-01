@@ -32,6 +32,9 @@ Welcome to my GitHub repository where I showcase various electronics projects. E
 ### 9. I2C Protocol
 - Description: Descr.
 
+### 19. Timers
+- Description: Descr.
+
 ### ESP8266 Projects
 
 1. **WiFi Temperature Sensor**
